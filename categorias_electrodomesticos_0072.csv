@@ -1,0 +1,7 @@
+﻿id_categoria,nombre_categoria,descripcion,cantidad_productos,margen_ganancia_promedio,producto_mas_vendido,proveedor_principal,garantia_estandar_meses,requiere_instalacion,estado_categoria
+901,Refrigeracion,Refrigeradores y congeladores,15,15,Refrigerador 200L,Mabe,12,True,Activa
+902,Lavado,Lavadoras y secadoras,10,12,Lavadora 15kg,Whirlpool,12,True,Activa
+903,Cocina,Estufas y hornos,20,18,Estufa 6Q,Iem,12,True,Activa
+904,Climatizacion,Aires acondicionados,8,20,Minisplit 1T,Carrier,12,True,Activa
+905,Entretenimiento,TVs y Audio,25,10,"Smart TV 50""",Samsung,12,False,Activa
+906,Cuidado personal,Secadoras de pelo,12,25,Secadora profesional,Philips,6,False,Activa
